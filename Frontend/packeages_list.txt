@@ -1,0 +1,6 @@
+npm i ngx-toastr
+npm i ngx-webstorage
+npm i @fortawesome/angular-fontawesome
+npm i @fortawesome/free-solid-svg-icons
+npm i @tinymce/tinymce-angular
+npm i @ng-bootstrap/ng-bootstrap
